@@ -1,0 +1,7 @@
+TRACE [2016-05-20 11:46:34.831] [logid:0] [tcpserver.cpp:416] accept a connection from[10.77.96.94]
+DEBUG [2016-05-20 11:46:34.831] [logid:0] [tcpserver.cpp:454] after push queue size[1]
+DEBUG [2016-05-20 11:46:34.831] [logid:0] [tcpserver.cpp:216] beg to get a sock from queue, 1
+DEBUG [2016-05-20 11:46:34.831] [logid:0] [tcpserver.cpp:220] have got a sock from queue, 0
+DEBUG [2016-05-20 11:46:34.831] [logid:11] [binaryserver.cpp:23] input:5:nihao
+DEBUG [2016-05-20 11:46:34.831] [logid:11] [binaryserver.cpp:36] output:10:n-i-h-a-o-
+INFO [2016-05-20 11:46:34.831] [logid:11] [tcpserver.cpp:270] cost:(0-0-0)ms 
